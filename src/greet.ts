@@ -1,3 +1,3 @@
 export function sayHello(compiler: string) {
-    return `Hello from ${compiler}`;
+    return `Hello from ${compiler} and litewit`;
 }
